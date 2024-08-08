@@ -4,3 +4,4 @@ lxml
 pandas
 urllib3
 requests-futures
+figlet
