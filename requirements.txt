@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+lxml
+pandas
+urllib3
+requests-futures
