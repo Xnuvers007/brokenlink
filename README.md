@@ -19,6 +19,7 @@ Ensure you have Python 3.x installed on your system. You will also need `pip` to
 ```
 git clone https://github.com/Xnuvers007/brokenlink
 cd brokenlink
+pip install -r requirements.txt
 ./br.py -h
 ```
 
